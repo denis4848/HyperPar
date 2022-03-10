@@ -3,6 +3,7 @@ public class HyperPar {
 
     public static boolean hyperpar(int num) {
         int resto;
+
         int conflicto1;
         if (num >= 0) {
             while (num != 0) {
